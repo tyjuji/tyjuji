@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Blazor website
+- 🌱 I’m currently learning C# and Blazor
+
+- 📫 Computer Science graduate from Zealand Academy of Technologies and Business.
+      Looking for a job in Denmark or remote.
+      
 <!--
 **tyjuji/tyjuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
